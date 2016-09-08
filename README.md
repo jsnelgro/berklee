@@ -13,3 +13,7 @@ classes
 - [MTI Seminar 1 (MTI-515-001)](MBTI-seminar/)
 - [Nonlin Structrs Real Time Med (MTI-521-001)](nonlin-realtime/)
 - [Electronic Production Live Performance (MTI-523-002)](eplp/)
+
+useful links
+--------------
+  - [class assignments](http://ol.berklee.edu/my/)
