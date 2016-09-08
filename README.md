@@ -7,11 +7,11 @@ _notes, projects, and assignments for Berklee Valencia_
 
 classes
 ----------------------------------------------------
-- [Innovation Makers Lab 1 (MTI-630-001)](makers-lab/)
-- [Hybrid Recrdng Methods/Strtgms (MTI-525-002)](recording-methods/)
-- [MTI Seminar 1 (MTI-515-001)](MBTI-seminar/)
-- [Nonlin Structrs Real Time Med (MTI-521-001)](nonlin-realtime/)
-- [Electronic Production Live Performance (MTI-523-002)](eplp/)
+- [Innovation Makers Lab 1 (MTI-630-001)](innovation-makers-lab/)
+- [Hybrid Recrdng Methods/Strtgms (MTI-525-002)](hybrid-recrdng-methods-strtgms/)
+- [MTI Seminar 1 (MTI-515-001)](mti-seminar/)
+- [Nonlin Structrs Real Time Media (MTI-521-001)](nonlin-structrs-real-time-media/)
+- [Electronic Production Live Performance (MTI-523-002)](electronic-production-live-performance/)
 
 burndown chart (cause whateves it's fun!)
 --------------------------------------
