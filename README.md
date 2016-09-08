@@ -1,10 +1,9 @@
-Berklee
+Berklee MPTI
 ============
 _notes, projects, and assignments for Berklee Valencia_
 
-intro
---------------
-this is probably just me being way too nerdy, but I'm using github to save notes and project files for my classes. Thanks to github's lfs, I can upload all my music projects, audio files, etc. to this repo and it will all be version controlled, backed up, and git's awesome diffing will make backing up much quicker (hopefully? Still to be tested)
+[TODO](https://waffle.io/jsnelgro/berklee)
+------------------------------------------
 
 classes
 ----------------------------------------------------
@@ -16,6 +15,10 @@ _current assignments are under TODO on each README_
 - [Nonlin Structrs Real Time Med (MTI-521-001)](nonlin-realtime/)
 - [Electronic Production Live Performance (MTI-523-002)](eplp/)
 
+burndown chart cause whateves it's fun!
+--------------------------------------
+[![Throughput Graph](https://graphs.waffle.io/jsnelgro/berklee/throughput.svg)](https://waffle.io/jsnelgro/berklee/metrics/throughput)
+
 useful links
 --------------
-  - [class assignments](http://ol.berklee.edu/my/)
+- [class assignments src](http://ol.berklee.edu/my/)
