@@ -1,5 +1,5 @@
-time-based media
-================
+Nonlin Structrs Real Time Media
+===================================
 [course home](http://ol.berklee.edu/course/view.php?id=45856)
 ----------------------------------------------------------------
 
