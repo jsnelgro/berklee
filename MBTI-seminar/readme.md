@@ -1,15 +1,6 @@
 MPTI Seminar
 ==================
-
-todo
-------------------
-- [ ] make a 1:00 minute video interviewing Ryan (partner from class)
-- [ ] write 500 word bio about Ryan
-- [ ] 1:00 presentation about Ryan... with different info than the bio and video ("I'd like to introduce you to...")
-
-extra todo
-------------
-- [ ] read "How to think like Leonardo Davinci" by Michal Geld(?)
+[course home](http://ol.berklee.edu/course/view.php?id=42296)
 
 
 goals
