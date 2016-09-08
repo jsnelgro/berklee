@@ -4,7 +4,7 @@ _notes, projects, and assignments for Berklee Valencia_
 
 intro
 --------------
-this is probably me just being way too nerdy, but I'm using github to save notes and project files for my classes. Thanks to github's lfs, I can upload all my music projects, audio files, etc. to this repo and it will all be version controlled, backed up, and git's awesome diffing will make backing up much quicker (hopefully? Still to be tested)
+this is probably just me being way too nerdy, but I'm using github to save notes and project files for my classes. Thanks to github's lfs, I can upload all my music projects, audio files, etc. to this repo and it will all be version controlled, backed up, and git's awesome diffing will make backing up much quicker (hopefully? Still to be tested)
 
 classes
 ----------------------------------------------------
