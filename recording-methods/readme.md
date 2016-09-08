@@ -1,7 +1,7 @@
-todo
--------------------------------------
-- [ ] go thorough lynda protools tutorial
-- [ ] go through adobe premier tutorial
+Hybrid Recrdng Methods/Strtgms
+=============================================
+[course home](http://ol.berklee.edu/course/view.php?id=45861)
+----------------------------------------------------------------
 
 Notes
 ================================================
