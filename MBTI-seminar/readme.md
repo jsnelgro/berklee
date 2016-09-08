@@ -1,6 +1,7 @@
 MPTI Seminar
 ==================
 [course home](http://ol.berklee.edu/course/view.php?id=42296)
+----------------------------------------------------------------
 
 
 goals
