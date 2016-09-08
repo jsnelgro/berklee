@@ -1,13 +1,15 @@
 time-based media
 ================
+[course home](http://ol.berklee.edu/course/view.php?id=45856)
+----------------------------------------------------------------
 
-todo
------------------
-- [ ] build a max/msp patch using beap (or whatever you want) and record audio from it. Make it musical. E.g. put it in ableton or whateves.
+
+Notes
+========================================
 
 helpful tips
 -------------
-extras -> quickrecord
+quickly record audio coming from max by going to: extras -> quickrecord
 
 
 random notes
