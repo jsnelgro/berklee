@@ -11,3 +11,4 @@ notes
 - will be making our own drum kit
 - drums -> Drum Rack ... to create a new empty drum rack
 - check out Drums -> Drum Hits ... tons of awesome samples!
+- DUB is Jamacian slang for "double" because it was a copy of the original with live effects being played on the board
